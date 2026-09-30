@@ -1,0 +1,4 @@
+array-to-latex==1.0.1
+ipykernel==7.3.0
+numpy==2.2.6
+pandas==2.3.3
